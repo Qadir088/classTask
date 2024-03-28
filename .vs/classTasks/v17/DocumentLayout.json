@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\classTasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{530F35AB-E2CE-43BA-B424-B839EF8097B2}|classTasks\\classTasks.csproj|c:\\users\\hp\\source\\repos\\classtasks\\classtasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530F35AB-E2CE-43BA-B424-B839EF8097B2}|classTasks\\classTasks.csproj|solutionrelative:classtasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530F35AB-E2CE-43BA-B424-B839EF8097B2}|classTasks\\classTasks.csproj|c:\\users\\hp\\source\\repos\\classtasks\\classtasks\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530F35AB-E2CE-43BA-B424-B839EF8097B2}|classTasks\\classTasks.csproj|solutionrelative:classtasks\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\classTasks\\classTasks\\Product.cs",
+              "RelativeDocumentMoniker": "classTasks\\Product.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\classTasks\\classTasks\\Product.cs",
+              "RelativeToolTip": "classTasks\\Product.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwCAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:16:12.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\classTasks\\classTasks\\Program.cs",
+              "RelativeDocumentMoniker": "classTasks\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\classTasks\\classTasks\\Program.cs",
+              "RelativeToolTip": "classTasks\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:15:05.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

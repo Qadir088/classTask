@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\classTasks\classTasks\obj\Debug\classTasks.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\classTasks\classTasks\obj\Debug\classTasks.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\classTasks\classTasks\bin\Debug\classTasks.exe.config
+C:\Users\HP\source\repos\classTasks\classTasks\bin\Debug\classTasks.exe
+C:\Users\HP\source\repos\classTasks\classTasks\bin\Debug\classTasks.pdb
+C:\Users\HP\source\repos\classTasks\classTasks\obj\Debug\classTasks.exe
+C:\Users\HP\source\repos\classTasks\classTasks\obj\Debug\classTasks.pdb
